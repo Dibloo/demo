@@ -1,7 +1,8 @@
-changement de la liste 
+ajustement de la liste 
+a
+b
+c
+d
+e
+nous allons voir mainteant ce que c'est git show
 
-ne pas oublier que pour modifier le fichier il faut choisir la touche E edit. 
-z
-er
-r
-r
